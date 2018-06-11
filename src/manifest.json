@@ -1,0 +1,13 @@
+{
+  "name": "Chrome Extension DEMO",
+  "description": "Chrome Extension DEMO",
+  "version": "0.1",
+  "manifest_version": 2,
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_icon": "icon.PNG",
+    "default_popup": "popup.html"
+  }
+}
