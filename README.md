@@ -6,3 +6,7 @@ To be able to use this extension do this:
 - on chrome browser open: chrome://extensions/
 - enable development mode
 - drop the file with extension into extensions
+
+## Authors
+
+* **Jozef Lacko** - *Initial work* - [Jozef Lacko](https://jozeflacko.github.io)
